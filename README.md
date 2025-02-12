@@ -1,16 +1,30 @@
 ﻿# E-Commerce-website
 
-🛒 E-Commerce Website for Electronics Shop
+🛒<b> E-Commerce Website for Electronics Shop</b>
+
+
 A fully functional e-commerce website built with PHP, designed for an electronics shop. Users can browse products, view product details, and make purchases securely.
 
-🚀 Features
+
+🚀<b> Features</b>
+
 User Authentication (Login/Register)
+
 Product Listings & Categories
+
 Detailed Product Pages
+
 Shopping Cart & Checkout System
+
 Secure Payment Gateway Integration
+
 Admin Panel for Product & Order Management
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP, MySQL
-Payment Gateway: PayPal/Stripe Integration
+
+🛠️ <b>Tech Stack </br>
+
+
+<b> Frontend: </b> HTML, CSS, JavaScript, Bootstrap
+
+<b>Backend:</b> PHP, MySQL
+
+<b>Payment Gateway: </b>PayPal/Stripe Integration
